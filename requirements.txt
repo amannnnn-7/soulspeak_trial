@@ -1,5 +1,5 @@
 streamlit
 transformers
-whisper
+openai-whisper
 torch
 tensorflow
