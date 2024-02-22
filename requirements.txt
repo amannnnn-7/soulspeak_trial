@@ -1,7 +1,5 @@
 streamlit
 transformers
 openai-whisper
-torch
-tensorflow
 ffmpeg-python
 inotify
