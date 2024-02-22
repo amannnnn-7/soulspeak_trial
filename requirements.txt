@@ -3,4 +3,4 @@ transformers
 openai-whisper
 torch
 tensorflow
-ffmpeg
+ffmpeg-python
