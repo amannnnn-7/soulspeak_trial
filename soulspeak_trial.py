@@ -5,8 +5,8 @@ import whisper
 st.title('Emotion Detection from Audio')
 
 model = whisper.load_model('base')
-result = model.transcribe('song1.wav', fp16 = False)
-txt = result['text']
+#result = model.transcribe('song1.wav', fp16 = False)
+#txt = result['text']
 
 tokenizer = RobertaTokenizerFast.from_pretrained("arpanghoshal/EmoRoBERTa")
 model = TFRobertaForSequenceClassification.from_pretrained("arpanghoshal/EmoRoBERTa")
