@@ -1,0 +1,7 @@
+streamlit
+transformers
+huggingface-hub
+torch
+tensorflow 
+whisper
+ffmpeg
