@@ -1,0 +1,5 @@
+streamlit
+transformers
+whisper
+torch
+tensorflow
