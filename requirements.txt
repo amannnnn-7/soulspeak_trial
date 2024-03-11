@@ -4,3 +4,4 @@ transformers==4.37.2
 tensorflow==2.7.0
 tensorflow-gpu
 tf-keras
+protobuf==3.20
