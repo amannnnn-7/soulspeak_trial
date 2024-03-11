@@ -4,3 +4,4 @@ openai-whisper
 ffmpeg-python
 inotify
 tensorflow
+tf-keras
