@@ -3,4 +3,4 @@ transformers
 openai-whisper
 ffmpeg-python
 inotify
-tensorflow-cpu==2.11.0
+tensorflow
