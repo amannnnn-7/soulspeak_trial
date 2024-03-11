@@ -1,3 +1,4 @@
 openai_whisper==20231117
 streamlit==1.31.1
 transformers==4.37.2
+tensorflow==2.7.0
